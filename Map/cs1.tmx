@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="21" height="21" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="tiles/ground_textures.tsx"/>
+ <tileset firstgid="373" source="tiles/desert_tileset32x32 (1).tsx"/>
+ <layer id="3" name="Background" width="21" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAEythYGAooTIOA+I2KuKKUTNHzRw1c9RMIjDDEHHnqJnYzTSlMgaZCQCv2pi15AYAAA==
+  </data>
+ </layer>
+ <layer id="2" name="Walls" width="21" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAE2NgGB5gLiP56kBixOqntnvIVT+UAK39hmw+rvgdroCQ34cbIORHSsqBkQDI9Tctykh6AQApHR1s5AYAAA==
+  </data>
+ </layer>
+</map>

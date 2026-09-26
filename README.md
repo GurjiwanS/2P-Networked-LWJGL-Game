@@ -36,3 +36,4 @@ This was an early project and there's a lot I'd do differently now:
 - Server game state is held in static fields rather than being properly encapsulated.
 - Client threads are invoked via `.run()` instead of `.start()`, so they don't actually run concurrently.
 - No proper game loop separation between networking and rendering.
+- Cleaner code and different structure.

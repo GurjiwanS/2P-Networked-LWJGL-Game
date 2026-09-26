@@ -1,6 +1,4 @@
-# CounteredStrike
-
-A two-player networked multiplayer shooter, built in Java using Slick2D/LWJGL for graphics and raw sockets for networking. University project, built in 2021.
+A two-player networked multiplayer shooter, built in Java using Slick2D/LWJGL for graphics and raw sockets for networking.
 
 ## How it works
 
